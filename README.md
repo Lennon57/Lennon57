@@ -30,10 +30,9 @@
 ## 🙋🏻‍♀️ Contact me
 
 <div align="center">
-    <span><img src="https://img.shields.io/badge/tistory-f05032?style=flat&logo=tistory&logoColor=white"/></span>
     <a href="https://parkparkpark.tistory.com/">
         <img 
-            src="https://img.shields.io/badge/tistory-f05032?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
+            src="https://img.shields.io/badge/tistory-f05032?style=for-the-badge&logo=tistory&logoColor=white&link=https://instagram.com/leejieuns2/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
     <a href="https://instagram.com/pmhxxhsj">
