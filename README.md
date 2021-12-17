@@ -30,6 +30,7 @@
 ## 🙋🏻‍♀️ Contact me
 
 <div align="center">
+    <span><img src="https://img.shields.io/badge/tistory-f05032?style=flat&logo=tistory&logoColor=white"/></span>
     <a href="https://parkparkpark.tistory.com/">
         <img 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
