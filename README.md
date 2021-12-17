@@ -1,7 +1,61 @@
-### Hi there 👋
+<p align="right">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejieuns2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
+         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</p>
 
 
-**pmhxhsj/pmhxhsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋🏻 Hi there  
+
+- 👩🏻‍💼   Department of CS (Computer Science)
+- 💻   Usually using Java language for programmming
+- 👩🏻‍🏫   Learn constantly and think creatively.
+
+<br>
+
+
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=leejieuns2&hide=stars,contribs&count_private=true&show_icons=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
+
+
+## 👩🏻‍💻 Tech Stack 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+</p>
+</p>
+
+
+## 🙋🏻‍♀️ Contact me
+
+<div align="center">
+    <a href="https://parkparkpark.tistory.com/">
+        <img 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    <a href="https://instagram.com/leejieuns2">
+        <img 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/leejieuns2/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    
+</div>
+
+<!--
+**leejieuns2/leejieuns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +67,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
