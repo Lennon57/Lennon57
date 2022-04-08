@@ -4,7 +4,7 @@
 - 💻   Usually using Javascript language for programmming
 - 👩🏻‍🏫   Learn constantly and think creatively🔥
 
-- 📚   Software Maestro 13th
+- 📚   (2022/04 ~ ) Software Maestro 13th
 <br>
 
 
