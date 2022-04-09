@@ -3,9 +3,10 @@
 - 👩🏻‍💼   Front-End Developer
 - 💻   Usually using Javascript language for programmming
 - 👩🏻‍🏫   Learn constantly and think creatively🔥
-
-- 📚   (2022/04 ~ ) Software Maestro 13th
 <br>
+
+## 🧑‍💻 Career
+- 🔥 Software Maestro 13th
 
 
 ## 👩🏻‍💻 Tech Stack 
