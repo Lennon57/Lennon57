@@ -6,7 +6,7 @@
 <br>
 
 ## 🧑‍💻 Career
-- 🔥 Software Maestro 13th
+- 🔥 Software Maestro 13th (2022/04 ~ )
 <br>
 
 ## 👩🏻‍💻 Tech Stack 
