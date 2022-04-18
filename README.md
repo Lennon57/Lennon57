@@ -1,4 +1,5 @@
-## 👋🏻 Hi there  
+# 💁🏻 Park Minho
+## 👋🏻 Hi there 
 
 - 👩🏻‍💼   Front-End Developer
 - 💻   Usually using Javascript language for programmming
