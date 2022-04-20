@@ -1,4 +1,4 @@
-## 👋🏻 Hi my name is "Park minho!" 
+## 👋🏻 my name is "Park minho!" 
 
 - 👩🏻‍💼   Front-End Developer
 - 💻   Usually using Javascript language for programmming
