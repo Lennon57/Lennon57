@@ -1,6 +1,6 @@
 ## 👋🏻 my name is "Park minho!" 
 
-- 👩🏻‍💼   Front-End Developer
+- 👩🏻‍💼   Full Stack Developer
 - 💻   Usually using Javascript language for programmming
 - 👩🏻‍🏫   Learn constantly and think creatively🔥
 <br>
