@@ -6,7 +6,7 @@
 <br>
 
 ## 🧑‍💻 Career
-- 🔥 Software Maestro 13th `22.04 ~ ing`
+- 🔥 Software Maestro 13th `22.04 ~ 22.11`
 <br>
 
 ## 👩🏻‍💻 Tech Stack 
