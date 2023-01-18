@@ -6,8 +6,8 @@
 <br>
 
 ## 🧑‍💻 Career
-- 🕴🏻 (주)구름  `22.12 ~ ing`
-- 🔥 Software Maestro 13th  `22.04 ~ 22.11`
+- 💻 goorm  `22.12 ~ ing`
+- 👩‍💻 Software Maestro 13th  `22.04 ~ 22.11`
 <br>
 
 ## 👩🏻‍💻 Tech Stack 
