@@ -22,6 +22,9 @@
  -->
 <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=redux saga&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react query&logoColor=white"/>
 </p>
 
 <!-- <p align="center">
