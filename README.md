@@ -29,6 +29,8 @@
         <img 
             src="https://img.shields.io/badge/tistory-f05032?style=for-the-badge&logo=tistory&logoColor=white&link=https://instagram.com/leejieuns2/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+        <img 
+            src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minho-park-023b65237" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
 <!--     <a href="https://instagram.com/pmhxxhsj">
         <img 
