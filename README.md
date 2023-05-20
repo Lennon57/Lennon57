@@ -7,8 +7,12 @@
 
 ## 🧑‍💻 Career
 - 💻 goorm  `22.12 ~ ing`
-- 👩‍💻 Software Maestro 13th  `22.04 ~ 22.11`
+
 <br>
+
+## ⛳️ Experiences
+- 👩‍💻 9oormthon in jeju 5th Fullstack Mentor  `23.03.28 ~ 23.03.31`
+- 👩‍💻 Software Maestro 13th  `22.04 ~ 22.11`
 
 ## 👩🏻‍💻 Tech Stack 
 
