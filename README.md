@@ -7,6 +7,7 @@
 
 ## 🧑‍💻 Career
 - 💻 goorm  `22.12 ~ ing`
+- 💻 goorm (experts)  `22.06 ~ 2022.11`
 
 <br>
 
