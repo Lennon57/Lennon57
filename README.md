@@ -1,19 +1,31 @@
-## 👋🏻 my name is "Park minho!" 
+## 👋🏻 my name is **"Minho Park"**
 
-- 👩🏻‍💼   Front-End Developer
-- 💻   Usually using Javascript language for programmming
-- 👩🏻‍🏫   Learn constantly and think creatively🔥
-<br>
+- Frontend Developer
+- Usually using `React` `TypeScript` `JavaScript` `Sass` for programmming
 
 ## 🧑‍💻 Career
-- 💻 goorm  `22.12 ~ ing`
-- 💻 goorm (outside experts)  `22.06 ~ 2022.11`
 
-<br>
+- 💻 **goorm**
+    - Role: `Fullstack developer`
+    - Date:  `22.12 ~ ing`
+
+- 💻 **goorm**
+    - Role: `Fullstack developer(outside experts)`
+    - Date: `22.06 ~ 2022.11`
 
 ## ⛳️ Experiences
-- 👩‍💻 9oormthon in jeju 5th Fullstack Mentor  `23.03.28 ~ 23.03.31`
-- 👩‍💻 Software Maestro 13th  `22.04 ~ 22.11`
+
+- 🧑🏻‍🏫  **Joint Hackathon for SWUniv 2023**
+    - Role: `Frontend Mentor`
+    - Date: `23.06.28 ~ 23.06.30`
+
+- 🧑🏻‍🏫  **9oormthon in jeju 5th**
+    - Role: `Fullstack Mentor`
+    - Date: `23.03.28 ~ 23.03.31`
+
+- 📚 **Software Maestro 13th**
+    - Role: `FrontEnd developer`
+    - Date: `22.04 ~ 22.11`
 
 <br>
 
