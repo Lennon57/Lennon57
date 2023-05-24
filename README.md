@@ -6,26 +6,26 @@
 ## 🧑‍💻 Career
 
 - 💻 **goorm**
-    - Role: `Fullstack developer`
-    - Date:  `22.12 ~ ing`
+    - **Fullstack Engineer**
+    - `22.12 ~ ing`
 
 - 💻 **goorm**
-    - Role: `Fullstack developer(outside experts)`
-    - Date: `22.06 ~ 2022.11`
+    - **Fullstack Engineer(outside experts)**
+    - `22.06 ~ 2022.11`
 
 ## ⛳️ Experiences
 
-- 🧑🏻‍🏫  **Joint Hackathon for SWUniv 2023**
-    - Role: `Frontend Mentor`
-    - Date: `23.06.28 ~ 23.06.30`
+- 🧑🏻‍🏫  [Joint Hackathon for SWUniv 2023](https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14166986&t=board)
+    - **Frontend Mentor**
+    - `23.06.28 ~ 23.06.30`
 
-- 🧑🏻‍🏫  **9oormthon in jeju 5th**
-    - Role: `Fullstack Mentor`
-    - Date: `23.03.28 ~ 23.03.31`
+- 🧑🏻‍🏫  [9oormthon in jeju 5th](https://9oormthon.goorm.io/)
+    - **Fullstack Mentor**
+    - `23.03.28 ~ 23.03.31`
 
 - 📚 **Software Maestro 13th**
-    - Role: `FrontEnd developer`
-    - Date: `22.04 ~ 22.11`
+    - **FrontEnd developer**
+    - `22.04 ~ 22.11`
 
 <br>
 
