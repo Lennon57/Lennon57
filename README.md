@@ -23,7 +23,7 @@
     - **Fullstack Mentor**
     - `23.03.28 ~ 23.03.31`
 
-- 📚 **Software Maestro 13th**
+- 📚 [Software Maestro 13th](https://www.swmaestro.org/sw/main/main.do)
     - **FrontEnd developer**
     - `22.04 ~ 22.11`
 
