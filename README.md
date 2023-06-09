@@ -17,7 +17,7 @@
 
 ## ⛳️ Experiences
 
-- 🧑🏻‍🏫  <a href="https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14166986&t=board" target="_blank">Joint Hackathon for SWUniv 2023</a>
+- 🧑🏻‍🏫  <a href="https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board" target="_blank">Joint Hackathon for SWUniv 2023</a>
     - **Frontend Mentor**
     - `23.06.28 ~ 23.06.30`
 
