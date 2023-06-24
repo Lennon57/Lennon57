@@ -2,6 +2,7 @@
 
 - Frontend Developer
 - Usually using `React` `TypeScript` `JavaScript` `Sass` for programmming
+- **try to write code that anyone can read** 
 <br> 
 
 ## 🧑‍💻 Career
