@@ -16,6 +16,7 @@
     - `22.06 ~ 2022.11`
  
 <br> 
+
 ## ⛳️ Experiences
 
 - 🧑🏻‍🏫 <a href="https://aicoss.knu.ac.kr/main/main.do#" target="_blank">Kyungpook univ Industry-University Project Mentor<a>    
