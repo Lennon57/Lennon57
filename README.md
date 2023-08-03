@@ -14,10 +14,14 @@
 - 💻 **goorm**
     - **Fullstack Engineer(outside experts)**
     - `22.06 ~ 2022.11`
+ 
 <br> 
-
 ## ⛳️ Experiences
 
+- 🧑🏻‍🏫 <a href="https://aicoss.knu.ac.kr/main/main.do#" target="_blank">Kyungpook univ Industry-University Project Mentor<a>    
+    - **Project Mentor**
+    - `23.09 ~ 23.12`
+    
 - 🧑🏻‍🏫  <a href="https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board" target="_blank">Joint Hackathon for SWUniv 2023</a>
     - **Frontend Mentor**
     - `23.06.28 ~ 23.06.30`
