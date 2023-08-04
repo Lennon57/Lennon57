@@ -19,7 +19,7 @@
 
 ## ⛳️ Experiences
 
-- 🧑🏻‍🏫 <a href="https://aicoss.knu.ac.kr/main/main.do#" target="_blank">Kyungpook univ Industry-University Project Mentor<a>    
+- 🧑🏻‍🏫 <a href="https://aicoss.knu.ac.kr/main/main.do#" target="_blank">Kyungpook univ. Industry-University Project Mentor<a>    
     - **Project Mentor**
     - `23.09 ~ 23.12`
     
