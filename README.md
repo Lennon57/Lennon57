@@ -27,7 +27,7 @@
     - **Frontend Mentor**
     - `23.06.28 ~ 23.06.30`
 
-- 🧑🏻‍🏫  [9oormthon in jeju 5th](https://9oormthon.goorm.io/)
+- 🧑🏻‍🏫  [kakao x goorm 9oormthon in jeju 5th](https://9oormthon.goorm.io/)
     - **Fullstack Mentor**
     - `23.03.28 ~ 23.03.31`
 
