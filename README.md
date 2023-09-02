@@ -19,6 +19,9 @@
 
 ## ⛳️ Experiences
 
+- 🧑🏻‍🏫 <a href="https://www.syu.ac.kr/swuniv" target="_blank">Sahmyook univ. Capstone-Design Project Mentor</a>
+    - **Project Mentor**
+    - `23.09 ~ 23.12`
 - 🧑🏻‍🏫 <a href="https://aicoss.knu.ac.kr/main/main.do#" target="_blank">Kyungpook univ. Industry-University Project Mentor<a>    
     - **Project Mentor**
     - `23.09 ~ 23.12`
