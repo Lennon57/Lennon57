@@ -6,10 +6,12 @@
 <br> 
 
 ## 🧑‍💻 Career
-
+- 💻 **Pairy**
+    - **FrontEnd Engineer**
+    - `23.11 ~ ing`
 - 💻 **goorm**
     - **Fullstack Engineer**
-    - `22.12 ~ ing`
+    - `22.12 ~ 23.10`
 
 - 💻 **goorm**
     - **Fullstack Engineer(outside experts)**
@@ -19,26 +21,17 @@
 
 ## ⛳️ Experiences
 
-- 🧑🏻‍🏫 **Sahmyook univ. Capstone-Design Project**
-    - **Project Mentor**
-    - `23.09 ~ 23.12`
-- 🧑🏻‍🏫 **Kyungpook univ. Industry-University Project**
-    - **Project Mentor**
-    - `23.09 ~ 23.12`
-- 🧑🏻‍🏫 **Hanyang univ. Industry-Analysis Mentor**
-    - **Mentor**
-    - `23.08 ~ 23.08`    
-- 🧑🏻‍🏫  <a href="https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board" target="_blank">Joint Hackathon for SWUniv 2023</a>
-    - **Frontend Mentor**
-    - `23.06.28 ~ 23.06.30`
+|Activity|Role|Period|
+|------|---|---|
+|**goormthon univ. 1th hackathon**|**🧑🏻‍🏫 Mentor**|`23.11.18 ~ 23.11.19`|
+|**Sahmyook univ. Capstone-Design Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
+|**Kyungpook univ. Industry-University Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
+|**Hanyang univ. Industry-Analysis Mentor**|**🧑🏻‍🏫 Mentor**|`23.08 ~ 23.08`|
+|<a href="https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board" target="_blank">Joint Hackathon for SWUniv 2023</a>|**🧑🏻‍🏫 Frontend Mentor**|`23.06.28 ~ 23.06.30`|
+|[kakao x goorm 9oormthon in jeju 5th](https://9oormthon.goorm.io/)|**🧑🏻‍🏫 Fullstack Mentor**|`23.03.28 ~ 23.03.31`|
+|[Software Maestro 13th](https://www.swmaestro.org/sw/main/main.do)|**📚 FrontEnd developer**|`22.04 ~ 22.11`|
 
-- 🧑🏻‍🏫  [kakao x goorm 9oormthon in jeju 5th](https://9oormthon.goorm.io/)
-    - **Fullstack Mentor**
-    - `23.03.28 ~ 23.03.31`
 
-- 📚 [Software Maestro 13th](https://www.swmaestro.org/sw/main/main.do)
-    - **FrontEnd developer**
-    - `22.04 ~ 22.11`
 <br>
 
 ## 👩🏻‍💻 Tech Stack 
