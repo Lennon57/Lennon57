@@ -9,6 +9,7 @@
 - 💻 **Pairy**
     - **FrontEnd Engineer**
     - `23.11 ~ ing`
+      
 - 💻 **goorm**
     - **Fullstack Engineer**
     - `22.06 ~ 23.10`
