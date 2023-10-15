@@ -11,11 +11,7 @@
     - `23.11 ~ ing`
 - 💻 **goorm**
     - **Fullstack Engineer**
-    - `22.12 ~ 23.10`
-
-- 💻 **goorm**
-    - **Fullstack Engineer(outside experts)**
-    - `22.06 ~ 2022.11`
+    - `22.06 ~ 23.10`
  
 <br> 
 
