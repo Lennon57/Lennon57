@@ -20,7 +20,7 @@
 
 |Activity|Role|Period|
 |------|---|---|
-|**goormthon univ. 1th hackathon**|**🧑🏻‍🏫 FrontEnd Mentor**|`23.11.18 ~ 23.11.19`|
+|**goormthon univ. 1th hackathon**|**🧑🏻‍🏫 Mentor**|`23.10.14 ~ 23.11.19`|
 |**Chungang univ. Foundation Club(Makers)**|**🧑🏻‍🏫 Project Mentor**|`23.10.25 ~ 23.11.03`|
 |**Sahmyook univ. Capstone-Design Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
 |**Kyungpook univ. Industry-University Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
