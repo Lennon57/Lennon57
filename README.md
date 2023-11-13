@@ -8,11 +8,11 @@
 ## 🧑‍💻 Career
 - 💻 **Pairy**
     - **FrontEnd Engineer**
-    - `23.11 ~ ing`
+    - `23.11.01 ~ ing`
       
 - 💻 **goorm**
     - **Fullstack Engineer**
-    - `22.06 ~ 23.10`
+    - `22.06.22 ~ 23.10.31`
  
 <br> 
 
