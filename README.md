@@ -20,7 +20,7 @@
 
 |Activity|Role|Period|
 |------|---|---|
-|[goormthon univ. 1th hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7132553091597389824/)|**🧑🏻‍🏫 Frontend Mentor**|`23.10.14 ~ 23.11.19`|
+|[goormthon univ. 1th](https://www.linkedin.com/feed/update/urn:li:activity:7132553091597389824/)|**🧑🏻‍🏫 Frontend Mentor**|`23.10.14 ~ 23.11.19`|
 |**Chungang univ. Foundation Club(LINC 3.0)**|**🧑🏻‍🏫 Frontend Mentor**|`23.10.25 ~ 23.11.12`|
 |**Sahmyook univ. Capstone-Design Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
 |**Kyungpook univ. Industry-University Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
