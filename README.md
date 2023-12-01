@@ -22,7 +22,7 @@
 |------|---|---|
 |[codeit frontend bootcamp](https://sprint.codeit.kr/?utm_source=google_paid&utm_medium=sa&utm_campaign=sa&utm_term=%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98&utm_content=frontend&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_n32f7nBnKr4PAh4zFszcE_0Ysm3tqOONKegaDF6NZPSz6RRh_jJaQaAsfREALw_wcB)|**🧑🏻‍🏫 Frontend Mentor**|`23.12.28 ~ 24.06.21`|
 |[goormthon univ. 1th](https://www.linkedin.com/feed/update/urn:li:activity:7132553091597389824/)|**🧑🏻‍🏫 Frontend Mentor**|`23.10.14 ~ 23.11.19`|
-|**Chungang univ. Foundation Club(LINC 3.0)**|**🧑🏻‍🏫 Frontend Mentor**|`23.10.25 ~ 23.11.12`|
+|**Chungang univ. Entrepreneurship Club(LINC 3.0)**|**🧑🏻‍🏫 Frontend Mentor**|`23.10.25 ~ 23.11.12`|
 |**Sahmyook univ. Capstone-Design Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
 |**Kyungpook univ. Industry-University Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
 |**Hanyang univ. Industry-Analysis Mentor**|**🧑🏻‍🏫 Project Mentor**|`23.08 ~ 23.08`|
