@@ -8,7 +8,7 @@
 ## 👩🏻‍💻 Tech Stack 
 
 <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 </p>
@@ -17,7 +17,7 @@
 ## 🙋🏻‍♀️ Contact me
 
 <div align="center">
-    <a href="https://parkparkpark.tistory.com/">
+    <a href="https://parkparkpark.tistory.com/" style="margin-right: 8px;">
         <img 
             src="https://img.shields.io/badge/tistory-f05032?style=for-the-badge&logo=tistory&logoColor=white&link=https://instagram.com/leejieuns2/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
