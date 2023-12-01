@@ -1,7 +1,7 @@
 ## 👋🏻 my name is **"Minho Park"**
 
 - Frontend Developer
-- Usually using `React` `TypeScript` `JavaScript` `Sass` for programmming
+- Usually using `Next`, `React` `TypeScript` `JavaScript` `Sass`, `Tailwind` for programmming
 - **try to write code that anyone can read** 
 <br> 
 
