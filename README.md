@@ -17,14 +17,19 @@
 ## 🙋🏻‍♀️ Contact me
 
 <div align="center">
+    <a href="https://velog.io/@kennys">
+        <img 
+            src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=velog&logoColor=white"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
     <a href="https://parkparkpark.tistory.com/" style="margin-right: 8px;">
         <img 
-            src="https://img.shields.io/badge/tistory-f05032?style=for-the-badge&logo=tistory&logoColor=white&link=https://instagram.com/leejieuns2/"
+            src="https://img.shields.io/badge/tistory-f05032?style=for-the-badge&logo=tistory&logoColor=white"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
     <a href="https://www.linkedin.com/in/minho5042">
         <img 
-            src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minho-park-023b65237" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+            src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
 </div>
 
