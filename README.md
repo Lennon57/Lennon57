@@ -5,34 +5,6 @@
 - **try to write code that anyone can read** 
 <br> 
 
-## 🧑‍💻 Career
-- 💻 **Pairy**
-    - **FrontEnd Engineer**
-    - `23.11.01 ~ ing`
-      
-- 💻 **goorm**
-    - **Fullstack Engineer**
-    - `22.06.22 ~ 23.10.31`
- 
-<br> 
-
-## ⛳️ Experiences
-
-|Activity|Role|Period|
-|------|---|---|
-|[codeit frontend bootcamp](https://sprint.codeit.kr/?utm_source=google_paid&utm_medium=sa&utm_campaign=sa&utm_term=%EC%BD%94%EB%94%A9%20%EA%B0%95%EC%9D%98&utm_content=frontend&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_n32f7nBnKr4PAh4zFszcE_0Ysm3tqOONKegaDF6NZPSz6RRh_jJaQaAsfREALw_wcB)|**🧑🏻‍🏫 Frontend Mentor**|`23.12.28 ~ 24.06.21`|
-|[goormthon univ. 1th](https://www.linkedin.com/feed/update/urn:li:activity:7132553091597389824/)|**🧑🏻‍🏫 Frontend Mentor**|`23.10.14 ~ 23.11.19`|
-|**Chungang univ. Entrepreneurship Club(LINC 3.0)**|**🧑🏻‍🏫 Frontend Mentor**|`23.10.25 ~ 23.11.12`|
-|**Sahmyook univ. Capstone-Design Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
-|**Kyungpook univ. Industry-University Project**|**🧑🏻‍🏫 Project Mentor**|`23.09 ~ 23.12`|
-|**Hanyang univ. Industry-Analysis Mentor**|**🧑🏻‍🏫 Project Mentor**|`23.08 ~ 23.08`|
-|<a href="https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board" target="_blank">Joint Hackathon for SWUniv 2023</a>|**🧑🏻‍🏫 Frontend Mentor**|`23.06.28 ~ 23.06.30`|
-|[kakao x goorm 9oormthon in jeju 5th](https://9oormthon.goorm.io/)|**🧑🏻‍🏫 Fullstack Mentor**|`23.03.28 ~ 23.03.31`|
-|[Software Maestro 13th](https://www.swmaestro.org/sw/main/main.do)|**📚 Trainee**|`22.04 ~ 22.11`|
-
-
-<br>
-
 ## 👩🏻‍💻 Tech Stack 
 
 <p align="center">
