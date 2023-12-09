@@ -3,11 +3,8 @@
 - Frontend Developer
 - Usually using `Next`, `React` `TypeScript` `JavaScript` `Sass`, `Tailwind` for programmming
 - **try to write code that anyone can read** 
+
 <br>
-
-## Contributor
-
-##### [react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/11268)
 
 ## 👩🏻‍💻 Tech Stack 
 
@@ -15,8 +12,15 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
-</p>
 
+<br>
+
+## 🌊 Open Source Contribution
+
+- #### [react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/11268)
+
+
+<br>
 
 ## 🙋🏻‍♀️ Contact me
 
