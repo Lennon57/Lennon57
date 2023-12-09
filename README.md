@@ -3,7 +3,11 @@
 - Frontend Developer
 - Usually using `Next`, `React` `TypeScript` `JavaScript` `Sass`, `Tailwind` for programmming
 - **try to write code that anyone can read** 
-<br> 
+<br>
+
+## Contributor
+
+##### [react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/11268)
 
 ## 👩🏻‍💻 Tech Stack 
 
