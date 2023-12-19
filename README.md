@@ -17,9 +17,7 @@
 
 ## 🌊 Open Source Contribution
 
-- #### [react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/11268)
-
-
+- #### [react-hook-form](https://github.com/react-hook-form/react-hook-form/pulls?q=is%3Apr+is%3Aclosed+author%3ALennon57)
 <br>
 
 ## 🙋🏻‍♀️ Contact me
