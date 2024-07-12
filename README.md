@@ -27,6 +27,8 @@
 ## 📚 Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kennys)](https://velog.io/@kennys/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kennys&slug=리액트-프로젝트의-응집화를-통한-효율적인-코드-구조화)](https://velog.io/@kennys/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kennys&slug=리액트에서-좋은-구조란)](https://velog.io/@kennys/posts)
 
 ## 🙋🏻‍♀️ Contact me
 
