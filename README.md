@@ -14,22 +14,6 @@
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
 </p>
 
-<br>
-
-## 🌊 Open Source Contribution
-
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form/pulls?q=is%3Apr+is%3Aclosed+author%3ALennon57)
-- [@tanstack/query](https://github.com/TanStack/query/pulls?q=is%3Apr+is%3Aclosed+author%3ALennon57)
-- [@use-funnel/react-router-dom](https://github.com/toss/use-funnel/pulls?q=is%3Apr+is%3Aclosed+author%3ALennon57)
-- [tldraw](https://github.com/tldraw/tldraw/pulls?q=is%3Apr+author%3ALennon57+is%3Aclosed)
-- [mdn](https://github.com/mdn/translated-content/pulls?q=is%3Apr+is%3Aclosed+author%3ALennon57)
-<br>
-
-
-## 📚 Blog
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=kennys)](https://velog.io/@kennys)
-
 ## 🙋🏻‍♀️ Contact me
 
 <div>
